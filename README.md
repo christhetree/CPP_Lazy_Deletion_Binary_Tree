@@ -1,4 +1,4 @@
 CPP_Lazy_Deletion_Tree
 ======================
 
-C++ implementation of a lazy deletion tree.
+C++ implementation of a lazy deletion binary tree.
